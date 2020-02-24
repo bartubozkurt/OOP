@@ -1,0 +1,7 @@
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\bin\Debug\OOParrays.exe.config
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\bin\Debug\OOParrays.exe
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\bin\Debug\OOParrays.pdb
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\obj\Debug\OOParrays.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\obj\Debug\OOParrays.exe
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\obj\Debug\OOParrays.pdb
+C:\Users\bartu\Desktop\Program\OOP\OOParrays\OOParrays\obj\Debug\OOParrays.csprojAssemblyReference.cache
