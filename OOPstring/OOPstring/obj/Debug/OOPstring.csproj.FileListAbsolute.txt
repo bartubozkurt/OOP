@@ -1,7 +1,0 @@
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\bin\Debug\OOPstring.exe.config
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\bin\Debug\OOPstring.exe
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\bin\Debug\OOPstring.pdb
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\obj\Debug\OOPstring.csprojAssemblyReference.cache
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\obj\Debug\OOPstring.csproj.CoreCompileInputs.cache
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\obj\Debug\OOPstring.exe
-C:\Users\bartu\Desktop\Program\OOP\OOPstring\OOPstring\obj\Debug\OOPstring.pdb
