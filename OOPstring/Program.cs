@@ -40,7 +40,7 @@ namespace OOPstring
             var result8 = sentence.ToLower();    // Küçük harf
             var result9 = sentence.ToUpper();   //Büyük Harf
 
-            var result10 = sentence.Replace("", "-"); // (boşluk yerine - koyuyor) yerine geçmek.
+            var result10 = sentence.Replace("", "-"); // (boşluk yerine ya da istediğiniz özel bir kelime var ("a") gibi - koyuyor) yerine geçmek.
             var result11 = sentence.Remove(2); // istediğiniz indisten itibaren çıkarıyor.
 
             Console.WriteLine(result2);
