@@ -1,0 +1,9 @@
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.Form1.resources
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.Properties.Resources.resources
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\bin\Debug\OOPdemo1.exe.config
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\bin\Debug\OOPdemo1.exe
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\bin\Debug\OOPdemo1.pdb
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.exe
+C:\Users\bartu\Desktop\Program\OOP\OOPdemo1\OOPdemo1\obj\Debug\OOPdemo1.pdb
