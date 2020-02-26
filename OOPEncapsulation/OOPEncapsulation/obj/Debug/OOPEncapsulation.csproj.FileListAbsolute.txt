@@ -1,7 +1,0 @@
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\bin\Debug\OOPEncapsulation.exe.config
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\bin\Debug\OOPEncapsulation.exe
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\bin\Debug\OOPEncapsulation.pdb
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\obj\Debug\OOPEncapsulation.csprojAssemblyReference.cache
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\obj\Debug\OOPEncapsulation.csproj.CoreCompileInputs.cache
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\obj\Debug\OOPEncapsulation.exe
-C:\Users\bartu\Desktop\Program\OOP\OOPEncapsulation\OOPEncapsulation\obj\Debug\OOPEncapsulation.pdb
