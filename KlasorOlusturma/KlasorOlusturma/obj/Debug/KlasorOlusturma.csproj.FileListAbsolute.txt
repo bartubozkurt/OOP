@@ -1,7 +1,0 @@
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\bin\Debug\KlasorOlusturma.exe.config
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\bin\Debug\KlasorOlusturma.exe
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\bin\Debug\KlasorOlusturma.pdb
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\obj\Debug\KlasorOlusturma.csprojAssemblyReference.cache
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\obj\Debug\KlasorOlusturma.csproj.CoreCompileInputs.cache
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\obj\Debug\KlasorOlusturma.exe
-C:\Users\bartu\Desktop\KlasorOlusturma\KlasorOlusturma\obj\Debug\KlasorOlusturma.pdb
